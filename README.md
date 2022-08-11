@@ -65,3 +65,4 @@ F1-score results for each one.
 
 4- Compare the givin context with the one figured in our dataset using ROUGE matric.
 
+Read More about ROUGE metric : https://medium.com/nlplanet/two-minutes-nlp-learn-the-rouge-metric-by-examples-f179cc285499
