@@ -5,7 +5,11 @@ keywords : unstructured text document, context, semantic relationship
 
 
 
-DataSet : manually collected from wikipedia 600 unstructured Data and the Topics were manually extracted .
+DataSet(labeled : Text , Topic) : 
+
+  - Manually 600 unstructured Texts collected from wikipedia  .
+  
+  - Topics were manually extracted .
 
 
 
