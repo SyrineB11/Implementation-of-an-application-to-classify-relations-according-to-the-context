@@ -28,12 +28,17 @@ of context from an unstructured text document. This step
 is based on “deep learning”.
 
 
+![protocole expérimental](https://user-images.githubusercontent.com/78451998/184122796-20251534-5a2c-423c-9cf0-4ca07720f1e8.png)
+
+
 
 Steps: 
 
 1- Extract Keywors(important words) from unstructured text documents : used deveral keyword extraction tools : 
 
 TF-IDF/KeyBert/LDA/TextRank - chosed the best tool comparing to the giving
+
+
 ![graphe](https://user-images.githubusercontent.com/78451998/184121932-aad0c026-caa6-44b5-ad3d-192613ff578e.png)
 
 F1-score results for each one.
@@ -53,6 +58,7 @@ F1-score results for each one.
  
  
 3- Extracting the context using Markov chains (trained on our Dataset)/LSTM Model/Python code 
+
 ![try1](https://user-images.githubusercontent.com/78451998/184121900-fc557de1-9423-4794-ad49-5aee70bcdb12.PNG)
 
 
