@@ -5,7 +5,7 @@ keywords : unstructured text document, context, semantic relationship
 
 
 
-DataSet : manually collected from wikipedia 600 unstructured Data and manually extracted the topic for each text
+DataSet : manually collected from wikipedia 600 unstructured Data and the Topics were manually extracted .
 
 
 
@@ -30,6 +30,7 @@ is based on “deep learning”.
 
 
 Steps: 
+
 1- Extract Keywors(important words) from unstructured text documents : used deveral keyword extraction tools : 
 
 TF-IDF/KeyBert/LDA/TextRank - chosed the best tool comparing to the giving
@@ -51,4 +52,6 @@ F1-score results for each one.
  
  
 3- Extracting the context using Markov chains (trained on our Dataset)/LSTM Model/Python code 
+
+
 4- Compare the givin context with the one figured in our dataset using ROUGE matric.
