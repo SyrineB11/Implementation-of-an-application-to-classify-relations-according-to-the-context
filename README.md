@@ -52,7 +52,7 @@ F1-score results for each one.
  
  
 3- Extracting the context using Markov chains (trained on our Dataset)/LSTM Model/Python code 
-https://user-images.githubusercontent.com/78451998/184121900-fc557de1-9423-4794-ad49-5aee70bcdb12.PNG)
+https://user-images.githubusercontent.com/78451998/184121900-fc557de1-9423-4794-ad49-5aee70bcdb12.PNG
 
 
 4- Compare the givin context with the one figured in our dataset using ROUGE matric.
