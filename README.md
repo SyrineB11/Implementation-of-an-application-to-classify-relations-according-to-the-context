@@ -30,15 +30,22 @@ is based on “deep learning”.
 
 
 Steps: 
-1- Extract Keywors(important words) from unstructured text documents : used deveral keyword extraction tools : TF-IDF/KeyBert/LDA/TextRank - chosed the best tool comparing to the giving
+1- Extract Keywors(important words) from unstructured text documents : used deveral keyword extraction tools : 
+
+TF-IDF/KeyBert/LDA/TextRank - chosed the best tool comparing to the giving
+
 F1-score results for each one.
 
 
 
 2- Training our model using :
+
  2-1 Word2Vec to vectorize our sentence and create sentence embeddings
+ 
  2-2 Training our Model using LSTM
+ 
  2-3 Training a 2nd Model using GRU
+ 
  2-3 chosing the best architecture according to the giving accuracy in our case ==> LSTM
  
  
